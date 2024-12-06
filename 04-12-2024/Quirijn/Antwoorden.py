@@ -70,9 +70,3 @@ for row_idx in range(1, N_rows-1):
         x_mas_count += is_xmas(row_idx, col_idx, my_arr)
 
 print("x_mas_count: ", x_mas_count)
-
-
-
-
-
-
